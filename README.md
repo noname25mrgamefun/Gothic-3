@@ -219,4 +219,4 @@ Gothic 3 is available as a **full free version** with all features and updates i
 Embark on your epic adventure today! Download Gothic 3 now and experience the thrill of freeing the lands from the Orc menace!
 
 ---
-**Last updated:** 2026-10-21 07:06:14 UTC
+**Last updated:** 2026-10-21 13:27:45 UTC
